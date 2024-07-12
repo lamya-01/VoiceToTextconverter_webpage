@@ -57,7 +57,7 @@ Database Setup:p:**
 4. **Configure the database connection in save.php to match your MySQL server settings.**
 
 ## Usage
-1. Start your web server and navigate to [http://localhost/your-project-directory/index.html](http://localhost/your-project-directory/index.html).html)
+1. Start your web server and navigate to [http://localhost/your-project-directory/index.html](http://localhost/your-project-directory/index.html)
 
 2. You will see a user interface,allow the microphone to be turend on to record:
    - Say "open" to start recording.
