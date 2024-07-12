@@ -9,7 +9,6 @@ This project is designed to convert speech into text using the Web Speech API an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Notes](#notes)
 
 ## Project Description
 
