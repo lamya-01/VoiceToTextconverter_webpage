@@ -12,7 +12,7 @@ This project is designed to convert speech into text using the Web Speech API an
 
 ## Project Description
 
-This project is a simple web interface that converts speech into text using the Web Speech API and stores the transcribed text in a MySQL database using PHP and MySQLi. The application listens for specific voice commands to start and stop the recording.
+This project is a simple web interface that converts speech into text using the Web Speech API and stores the transcribed text in a MySQL database using PHP and MySQLi. The web page listens for specific voice commands to start and stop the recording.
 
 ## Technologies Used
 
